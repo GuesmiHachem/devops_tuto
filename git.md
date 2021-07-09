@@ -94,3 +94,5 @@ Pour fusionner nos deux branches:
 **`git branch -d `**:  effacer une branche.
 
 **`git rebase`** 
+
+git push csl
