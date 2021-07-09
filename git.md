@@ -8,7 +8,7 @@ Les deux modèles des logiciels de gestion de version : **modèle centralisé** 
 **Modèle distribué**: le code source du projet est toujours hébergé sur un serveur distant mais chaque utilisateur est invité à télécharger et à héberger l’intégralité du code source du projet sur sa propre machine.
 
 ### Paramétrage de Git
-**`git config --global user.name "Pierre Giraud"`**  : renseigner un nom
+`git config --global user.name "Pierre Giraud"`  : renseigner un nom
 **`git config --global user.email pierre.giraud@edhec.com`** : renseigner  une adresse email.
 **`git config --global core.editor nom_de_votre_editeur`**
 
