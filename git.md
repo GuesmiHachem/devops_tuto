@@ -1,6 +1,9 @@
 **Git**  est un logiciel de gestion de version.
+
 **GitHub** est un service en ligne d’hébergement de dépôts Git qui fait office de serveur central pour ces dépôts.
+
 Les deux modèles des logiciels de gestion de version : **modèle centralisé** vs **modèle décentralisé**
+
 **Modèle centralisé**:la source du code du projet est hébergée sur un serveur distant central et les différents utilisateurs doivent se connecter à ce serveur pour travailler sur ce code.
 **Modèle distribué**: le code source du projet est toujours hébergé sur un serveur distant mais chaque utilisateur est invité à télécharger et à héberger l’intégralité du code source du projet sur sa propre machine.
 
