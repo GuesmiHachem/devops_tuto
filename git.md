@@ -10,9 +10,9 @@ Les deux modèles des logiciels de gestion de version : **modèle centralisé** 
 
 ### Paramétrage de Git
 
-**`git config --global user.name "Pierre Giraud"`**  : renseigner un nom
+**`git config --global user.name "Guesmi Hachem"`**  : renseigner un nom
 
-**`git config --global user.email pierre.giraud@edhec.com`** : renseigner  une adresse email.
+**`git config --global user.email guesmi.hachem@gmail.com`** : renseigner  une adresse email.
 
 **`git config --global core.editor nom_de_votre_editeur`**
 
